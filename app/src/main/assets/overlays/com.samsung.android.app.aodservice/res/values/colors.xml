@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="common_clock_date_color">#00000000</color>
-    <color name="common_clock_horizontal_two_line_divider_color">#00000000</color>
-    <color name="common_clock_horizontal_two_line_divider_invert_color">#00000000</color>
-    <color name="common_clock_horizontal_two_line_divider_invert_shadow_color">#00000000</color>
-    <color name="common_clock_horizontal_two_line_divider_shadow_color">#00000000</color>
-    <color name="common_clock_time_color">#00000000</color>
-</resources>
