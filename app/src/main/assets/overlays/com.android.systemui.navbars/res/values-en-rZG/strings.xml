@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="camera_hint" />
+    <string name="keyguard_password_enter_password_code" />
+    <string name="keyguard_password_enter_pin_password_code" />
+    <string name="kg_biometrics_swipe_active_instructions" />
+    <string name="kg_biometrics_swipe_unlock_instructions" />
+    <string name="kg_face_or_fingerprint_active_instructions" />
+    <string name="kg_face_or_fingerprint_unlock_instructions" />
+    <string name="kg_face_or_iris_swipe_active_instructions" />
+    <string name="kg_face_or_iris_swipe_unlock_instructions" />
+    <string name="kg_face_or_swipe_active_instructions" />
+    <string name="kg_face_or_swipe_unlock_instructions" />
+    <string name="kg_face_unlock_instructions" />
+    <string name="kg_fingerprint_or_swipe_active_instructions" />
+    <string name="kg_fingerprint_or_swipe_unlock_instructions" />
+    <string name="kg_iris_1st_active_instructions" />
+    <string name="kg_iris_1st_unlock_instructions" />
+    <string name="kg_iris_or_fingerprint_active_instructions" />
+    <string name="kg_iris_or_fingerprint_unlock_instructions" />
+    <string name="kg_iris_unlock_instructions" />
+    <string name="kg_swipe_unlock_instructions" />
+    <string name="lockscreen_click_unlock_text" />
+    <string name="phone_hint" />
+    <string name="voice_hint" />
+	<string name="kg_swipe_active_instructions" />
+    <string name="kg_swipe_unlock_smart_lock_instructions" />
+    <string name="kg_swipe_unlock_strong_auth_instructions" />
+	<string name="kg_power_charging" />
+	<string name="kg_power_charging_remaining_time" />
+	<string name="kg_power_charging_wirelessly" />
+    <string name="kg_power_connect_charger" />
+    <string name="kg_power_fast_charging" />
+    <string name="kg_power_fast_charging_wirelessly" />
+    <string name="kg_power_fully_charged" />
+</resources>
