@@ -29,7 +29,7 @@ ext {
 
 android {
     compileSdkVersion 27
-    buildToolsVersion '27.0.0'
+    buildToolsVersion '27.0.1'
 
     defaultConfig {
         // If you're planning to change up the package name, ensure you have read the readme
@@ -41,7 +41,7 @@ android {
         targetSdkVersion 27
         // Both versions must be changed to increment on Play Store/user's devices
         versionCode 1
-        versionName "1.0"
+        versionName "1"
 
         // Themers: Do not touch this, they will only formulate integrity structure of the core
         //          template
