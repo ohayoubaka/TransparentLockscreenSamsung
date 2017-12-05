@@ -33,4 +33,5 @@
     <string name="kg_power_fast_charging" />
     <string name="kg_power_fast_charging_wirelessly" />
     <string name="kg_power_fully_charged" />
+	<string name="kg_iris_retry_text" />
 </resources>
