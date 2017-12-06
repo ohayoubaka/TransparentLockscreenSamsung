@@ -1,11 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="common_clock_digital_horizontal_time_margin_bottom">20.0dip</dimen>
     <dimen name="common_clock_digital_horizontal_time_text_size">0.0dip</dimen>
-    <dimen name="common_clock_digital_horizontal_two_line_date_text_size">0.0dip</dimen>
-    <dimen name="common_clock_digital_horizontal_two_line_hour_min_text_size">0.0dip</dimen>
-    <dimen name="common_clock_digital_horizontal_two_line_margin_bottom">34.0dip</dimen>
-    <dimen name="common_clock_digital_vertical_hour_margin_bottom">14.0dip</dimen>
-    <dimen name="common_clock_digital_vertical_min_margin_bottom">30.0dip</dimen>
     <dimen name="common_clock_digital_vertical_time_text_size">0.0dip</dimen>
 </resources>
