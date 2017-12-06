@@ -1,17 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="common_clock_digital_big_hour_clock_padding_top">15.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_date_line_height">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_date_line_height_keyguard">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_date_margin_start">14.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_date_text_size">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_date_text_size_keyguard">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_date_text_size_keyguard_local">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_height">130.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_hour_text_size">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_keyguard_local_date_text_size">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_keyguard_minute_text_size">0.0dip</dimen>
-    <dimen name="common_clock_digital_big_hour_minute_text_size">0.0dip</dimen>
     <dimen name="common_clock_digital_horizontal_time_margin_bottom">20.0dip</dimen>
     <dimen name="common_clock_digital_horizontal_time_text_size">0.0dip</dimen>
     <dimen name="common_clock_digital_horizontal_two_line_date_text_size">0.0dip</dimen>
