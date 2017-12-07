@@ -55,4 +55,13 @@
     <string name="kg_face_authentication_failed_retry_text" />
     <string name="kg_face_authentication_error_camera_unavailable_retry_text" />
     <string name="kg_face_authentication_error_camera_unavailable_video_call_text" />
+	<string name="kg_iris_cancel" />
+	<string name="kg_iris_no_match" />
+	<string name="kg_iris_password_active_instructions" />
+    <string name="kg_iris_password_none_instructions" />
+    <string name="kg_iris_pattern_active_instructions" />
+    <string name="kg_iris_pattern_none_instructions" />
+    <string name="kg_iris_pattern_text_for_mkeyboard" />
+    <string name="kg_iris_pin_active_instructions" />
+    <string name="kg_iris_pin_none_instructions" />
 </resources>
