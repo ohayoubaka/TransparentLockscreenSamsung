@@ -34,4 +34,25 @@
     <string name="kg_power_fast_charging_wirelessly" />
     <string name="kg_power_fully_charged" />
 	<string name="kg_iris_retry_text" />
+	<string name="iris_guide_str_enable_toggle" />
+    <string name="iris_guide_str_for_text_preview" />
+	<string name="kg_biometrics_swipe_unlock_voice_assistant_instructions" />
+    <string name="kg_biometrics_swipe_active_voice_assistant_instructions" />
+    <string name="kg_face_or_swipe_unlock_voice_assistant_instructions" />
+    <string name="kg_face_or_swipe_active_voice_assistant_instructions" />
+    <string name="kg_face_unlock_voice_assistant_instructions" />
+    <string name="kg_face_or_fingerprint_active_voice_assistant_instructions" />
+    <string name="kg_face_or_fingerprint_unlock_voice_assistant_instructions" />
+    <string name="kg_iris_or_fingerprint_active_voice_assistant_instructions" />
+    <string name="kg_iris_or_fingerprint_unlock_voice_assistant_instructions" />
+    <string name="kg_fingerprint_or_swipe_active_voice_assistant_instructions" />
+    <string name="kg_fingerprint_or_swipe_unlock_voice_assistant_instructions" />
+    <string name="kg_iris_unlock_voice_assistant_instructions" />
+    <string name="kg_iris_1st_unlock_voice_assistant_instructions" />
+    <string name="kg_iris_1st_active_voice_assistant_instructions" />
+	<string name="kg_face_retry_content_description" />
+    <string name="kg_face_authentication_error_retry_text" />
+    <string name="kg_face_authentication_failed_retry_text" />
+    <string name="kg_face_authentication_error_camera_unavailable_retry_text" />
+    <string name="kg_face_authentication_error_camera_unavailable_video_call_text" />
 </resources>
