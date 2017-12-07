@@ -55,4 +55,22 @@
     <string name="kg_face_authentication_failed_retry_text" />
     <string name="kg_face_authentication_error_camera_unavailable_retry_text" />
     <string name="kg_face_authentication_error_camera_unavailable_video_call_text" />
+    <string name="kg_none_iris_pin_restart_instructions" />
+    <string name="kg_none_iris_pin_timeout_instructions" />
+    <string name="kg_none_iris_pin_deviceadmin_instructions" />
+    <string name="kg_none_iris_pattern_restart_instructions" />
+    <string name="kg_none_iris_pattern_timeout_instructions" />
+    <string name="kg_none_iris_pattern_deviceadmin_instructions" />
+    <string name="kg_none_iris_password_restart_instructions" />
+    <string name="kg_none_iris_password_timeout_instructions" />
+    <string name="kg_none_iris_password_deviceadmin_instructions" />
+    <string name="kg_none_iris_direction_restart_instructions" />
+    <string name="kg_none_iris_direction_timeout_instructions" />
+    <string name="kg_none_iris_direction_deviceadmin_instructions" />
+    <string name="kg_iris_unlock_instructions" />
+    <string name="kg_iris_1st_unlock_instructions" />
+    <string name="kg_iris_1st_active_instructions" />
+    <string name="kg_iris_or_fingerprint_active_instructions" />
+    <string name="kg_iris_or_fingerprint_unlock_instructions" />
+    <string name="kg_face_or_iris_swipe_unlock_instructions" />
 </resources>
