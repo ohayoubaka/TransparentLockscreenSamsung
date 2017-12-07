@@ -7,4 +7,13 @@
     <dimen name="keyguard_affordance_min_background_radius">0.0dip</dimen>
     <dimen name="keyguard_affordance_touch_target_size">0.0dip</dimen>
     <dimen name="keyguard_affordance_width">0.0dip</dimen>
+	<dimen name="kg_iris_text_preview_height">0.0dip</dimen>
+	<dimen name="kg_message_area_font_size">0.0dip</dimen>
+	<dimen name="kg_sub_help_text_font_size">0.0dip</dimen>
+	<dimen name="kg_title_text_size">0.0dip</dimen>
+	<dimen name="kg_usim_text_size">0.0dip</dimen>
+	<dimen name="keyguard_indication_text_font_size">0.0dip</dimen>
+    <dimen name="keyguard_indication_text_height">0.0dip</dimen>
+	<dimen name="keyguard_usim_text_area_height">0.0dip</dimen>
+    <dimen name="keyguard_usim_text_height">0.0dip</dimen>
 </resources>
