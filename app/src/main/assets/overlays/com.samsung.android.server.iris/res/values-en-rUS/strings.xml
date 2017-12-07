@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="iris_acquired_move_farther" />
+    <string name="iris_acquired_move_closer" />
+    <string name="iris_acquired_open_wider" />
+    <string name="iris_acquired_move_somewhere_darker" />
+    <string name="iris_acquired_change_your_position" />
+    <string name="iris_error_eye_safety_timeout" />
+    <string name="iris_error_proximity_timeout" />
+    <string name="iris_error_no_eye_detected" />
+</resources>
