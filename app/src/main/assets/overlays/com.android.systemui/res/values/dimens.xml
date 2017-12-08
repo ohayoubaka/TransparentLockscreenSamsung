@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="keyguard_single_time_view_min_height">0.0dip</dimen>
+    <dimen name="keyguard_single_time_view_text_size">0.0dip</dimen>
+    <dimen name="keyguard_single_date_view_min_height">0.0dip</dimen>
+    <dimen name="keyguard_single_date_view_text_size">0.0dip</dimen>
+    <dimen name="keyguard_dual_container_min_width">0.0dip</dimen>
+    <dimen name="keyguard_dual_locale_view_min_height">0.0dip</dimen>
+    <dimen name="keyguard_dual_locale_view_text_size">0.0dip</dimen>
+    <dimen name="keyguard_dual_time_view_min_height">0.0dip</dimen>
+    <dimen name="keyguard_dual_time_view_text_size">0.0dip</dimen>
+    <dimen name="keyguard_dual_ampm_view_text_size">0.0dip</dimen>
+    <dimen name="keyguard_dual_date_view_min_height">0.0dip</dimen>
+    <dimen name="keyguard_dual_date_view_text_size">0.0dip</dimen>
+    <dimen name="keyguard_dual_home_icon_size">0.0dip</dimen>
+    <dimen name="theme_single_textclock_bg_image_height">0.0dip</dimen>
+    <dimen name="theme_dual_textclock_bg_image_width">0.0dip</dimen>
+    <dimen name="theme_dual_textclock_bg_image_height">0.0dip</dimen>
+    <dimen name="theme_single_imageclock_digit_height">0.0dip</dimen>
+    <dimen name="theme_dual_imageclock_digit_height">0.0dip</dimen>
+</resources>
