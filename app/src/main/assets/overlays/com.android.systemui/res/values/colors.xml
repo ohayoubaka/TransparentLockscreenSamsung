@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="theme_textclock_color">#00000000</color>
+    <color name="theme_clock_date_color">#00000000</color>
+	<color name="backup_default_theme_textclock_color">#00000000</color>
+	<color name="backup_default_theme_clock_date_color">#00000000</color>
+	<color name="theme_clock_shadow_color">#00000000</color>
+	<color name="origin_textclock_color">#00000000</color>
+	<color name="origin_clock_date_color">#00000000</color>
+    <color name="origin_clock_shadow_color">#00000000</color>
+</resources>
