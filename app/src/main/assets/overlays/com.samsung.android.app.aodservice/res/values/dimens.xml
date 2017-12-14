@@ -2,4 +2,5 @@
 <resources>
     <dimen name="common_clock_digital_horizontal_time_text_size">0.0dip</dimen>
     <dimen name="common_clock_digital_vertical_time_text_size">0.0dip</dimen>
+    <dimen name="common_clock_date_text_size">0.0dip</dimen>
 </resources>
